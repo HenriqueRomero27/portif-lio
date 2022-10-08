@@ -1,3 +1,3 @@
 # portif-lio
 
-I love :pizza & :burger.
+I love 🍕 & 🍔.
